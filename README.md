@@ -20,3 +20,6 @@ Get request. Needs Authorization Bearer token. If any query parameter like first
 
 4. http://localhost:4000/users/:id\
 Put request. Needs Authorization Bearer token. Will update user whose id is provided in query parameter.
+
+
+Note: The api is live on: https://nodeapi-assignment.herokuapp.com/
